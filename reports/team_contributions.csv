@@ -1,6 +1,2 @@
 member,git_author_name,git_email,role,modules_files,commit_shas,evidence_note,presenter
-Member 1,,,Lead / Integrator,src/main.py; configs/,,,
-Member 2,,,Data & fixtures,fixtures/; tools/,,,
-Member 3,,,Core algorithm,src/pipeline.py,,,
-Member 4,,,QA / metric,tests/; reports/metrics_*.json,,,
-Member 5,,,Human review + report,reports/group_report.md; demo/,,,
+Member 1,thuythu0312,thuythu0965@gmail.com,Full Pipeline & Data Lead,"src/pipeline.py; src/baseline.py; configs/lab.yaml; tests/test_t02_group.py; reports/",b0ce8bf,"Implemented end-to-end multi-feature triage pipeline, baseline, unit tests, human review and report",yes

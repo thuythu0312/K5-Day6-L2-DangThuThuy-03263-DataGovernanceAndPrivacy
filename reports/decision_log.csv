@@ -1,0 +1,3 @@
+ts,scope,status,canonical,reason_code,reason,owner,evidence
+2026-11-14T09:28:02+00:00,t02,REWORK,REWORK,HIGH_DEFECT_RATE,High defect prevalence detected: 47 images flagged,Dang Thu Thuy (Data Lead),out\poc\ranked_review.csv
+2026-11-14T09:30:13+00:00,t02,REWORK,REWORK,HIGH_DEFECT_RATE,High defect prevalence detected: 47 images flagged,Dang Thu Thuy (Data Lead),out\poc\ranked_review.csv
