@@ -12,8 +12,8 @@
 | Challenge | T02 · Raw QC Triage: ảnh mờ, lóa và thiếu sáng |
 | Thành viên (5–6) + vai trò | 1. Đặng Thu Thúy (Full Pipeline Lead & Core Algorithm, Data & Review, QA) |
 | Git URL | https://github.com/thuythu0965/K5-Day6-L2-DangThuThuy-03263-DataGovernanceAndPrivacy |
-| Tag `demo-180m` (commit) | b0ce8bf |
-| Tag `final-24h` (commit) | b0ce8bf |
+| Tag `demo-180m` (commit) | ad9e707 |
+| Tag `final-24h` (commit) | ad9e707 |
 | Deadline (giờ VN) | 2026-11-15 18:00 |
 
 ## 01 · Problem statement
@@ -49,7 +49,7 @@
 ## 04 · Baseline vs PoC
 
 - Baseline (mô tả, version/config, commit): Một ngưỡng Laplacian toàn ảnh duy nhất đo độ sắc nét (`score = 1000 / (var + 1.0)`), commit b0ce8bf.
-- PoC (mô tả, version/config, commit): Đa đặc trưng kết hợp (Độ sắc nét thích ứng theo camera & ánh sáng, lưới phát hiện lóa 6x6, ngưỡng tối thích ứng và tỷ số vi phân biên khối JPEG), commit b0ce8bf.
+- PoC (mô tả, version/config, commit): Đa đặc trưng kết hợp (Độ sắc nét thích ứng theo camera & ánh sáng, lưới phát hiện lóa 6x6, ngưỡng tối thích ứng và tỷ số vi phân biên khối JPEG), commit ad9e707.
 - Cùng budget / cùng heldout / cùng seed: xác nhận Cùng budget B=20, cùng split dev (N=56), cùng seed 42.
 
 **Bảng 1 · Baseline vs PoC & hard slices** — dán output của
@@ -108,7 +108,7 @@ python -m unittest tests/test_t02_group.py
 ```
 
 - Output của `pytest -q` (hoặc `python -m unittest`): `Ran 3 tests in 0.039s - OK (100% PASS)`
-- Máy / CPU / OS / Python: Windows 11 · Python 3.11.9 · git sha: b0ce8bf
+- Máy / CPU / OS / Python: Windows 11 · Python 3.11.9 · git sha: ad9e707
 
 ## 09 · Limitations & ethics
 
@@ -123,7 +123,7 @@ python -m unittest tests/test_t02_group.py
 
 | Học viên | Git author/email | Module / vai trò | Commit SHA / diff chứng minh | Trình bày? |
 |---|---|---|---|---|
-| Đặng Thu Thúy | thuythu0312 <thuythu0965@gmail.com> | Full Project Owner & Lead / Core Algorithm / Review / QA |  | Có |
+| Đặng Thu Thúy | thuythu0312 <thuythu0965@gmail.com> | Full Project Owner & Lead / Core Algorithm / Review / QA | ad9e707 | Có |
 
 ## 11 · References
 

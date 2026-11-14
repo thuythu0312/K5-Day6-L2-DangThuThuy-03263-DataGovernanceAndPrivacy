@@ -1,2 +1,2 @@
 member,git_author_name,git_email,role,modules_files,commit_shas,evidence_note,presenter
-Member 1,thuythu0312,thuythu0965@gmail.com,Full Pipeline & Data Lead,"src/pipeline.py; src/baseline.py; configs/lab.yaml; tests/test_t02_group.py; reports/",b0ce8bf,"Implemented end-to-end multi-feature triage pipeline, baseline, unit tests, human review and report",yes
+Member 1,Đặng Thu Thúy,thuythu0965@gmail.com,Full Pipeline & Data Lead,"src/pipeline.py; src/baseline.py; configs/lab.yaml; tests/test_t02_group.py; reports/",ad9e707,"Implemented end-to-end multi-feature triage pipeline, baseline, unit tests, human review and report",yes

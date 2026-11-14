@@ -1,8 +1,21 @@
 rank,item_id,score,reason,suggested_action,slice,evidence_path,reviewer,reviewer_decision,override_value,review_note,reviewed_at
-1,img_06_2,481.6516,high_compression_risk,,,images/img_06_2.jpg,Dang Thu Thuy,approve,,Severe 8x8 blocking artifacts confirmed; mark for recapture,2026-11-14T16:30:00Z
-2,img_22_2,464.0263,high_compression_risk,,,images/img_22_2.jpg,Dang Thu Thuy,approve,,Severe compression noise; reject from training pool,2026-11-14T16:30:10Z
-3,img_00_2,431.3317,high_compression_risk,,,images/img_00_2.jpg,Dang Thu Thuy,approve,,Confirmed JPEG artifacts on boundaries,2026-11-14T16:30:20Z
-4,img_04_2,413.6952,high_compression_risk,,,images/img_04_2.jpg,Dang Thu Thuy,approve,,Confirmed compression defect,2026-11-14T16:30:30Z
-5,img_10_2,401.265,high_compression_risk,,,images/img_10_2.jpg,Dang Thu Thuy,approve,,Confirmed compression defect,2026-11-14T16:30:40Z
-16,img_17_2,157.5,high_glare_risk,,,images/img_17_2.jpg,Dang Thu Thuy,approve,,Severe plate glare washed out,2026-11-14T16:31:00Z
-20,img_01_2,105.0,high_dark_risk,,,images/img_01_2.jpg,Dang Thu Thuy,approve,,Underexposed night frame below sensor SNR threshold,2026-11-14T16:31:20Z
+1,img_17_2,157.5,high_glare_risk,,,images/img_17_2.jpg,Dang Thu Thuy,approve,,Severe plate glare washed out; confirmed for recapture,2026-11-14T16:31:00Z
+2,img_22_2,147.5349,high_compression_risk,,,images/img_22_2.jpg,Dang Thu Thuy,approve,,Severe compression noise; reject from training pool,2026-11-14T16:30:10Z
+3,img_00_2,143.1529,high_compression_risk,,,images/img_00_2.jpg,Dang Thu Thuy,approve,,Confirmed JPEG artifacts on boundaries,2026-11-14T16:30:20Z
+4,img_10_2,142.0686,high_compression_risk,,,images/img_10_2.jpg,Dang Thu Thuy,approve,,Confirmed compression defect,2026-11-14T16:30:40Z
+5,img_05_2,134.8177,high_compression_risk,,,images/img_05_2.jpg,,,,,
+6,img_06_2,129.2311,high_compression_risk,,,images/img_06_2.jpg,Dang Thu Thuy,approve,,Severe 8x8 blocking artifacts confirmed; mark for recapture,2026-11-14T16:30:00Z
+7,img_01_3,112.1747,high_compression_risk,,,images/img_01_3.jpg,,,,,
+8,img_23_2,111.2609,high_compression_risk,,,images/img_23_2.jpg,,,,,
+9,img_01_2,105.0,high_dark_risk,,,images/img_01_2.jpg,Dang Thu Thuy,approve,,Underexposed night frame below sensor SNR threshold,2026-11-14T16:31:20Z
+10,img_21_3,98.3903,high_compression_risk,,,images/img_21_3.jpg,,,,,
+11,img_09_2,95.3065,high_blur_risk,,,images/img_09_2.jpg,,,,,
+12,img_21_2,94.5762,high_blur_risk,,,images/img_21_2.jpg,,,,,
+13,img_15_3,92.7142,high_dark_risk,,,images/img_15_3.jpg,,,,,
+14,img_23_3,92.1629,high_dark_risk,,,images/img_23_3.jpg,,,,,
+15,img_11_2,90.6862,high_compression_risk,,,images/img_11_2.jpg,,,,,
+16,img_17_3,90.4846,high_dark_risk,,,images/img_17_3.jpg,,,,,
+17,img_14_3,89.1303,high_compression_risk,,,images/img_14_3.jpg,,,,,
+18,img_07_3,88.8456,high_blur_risk,,,images/img_07_3.jpg,,,,,
+19,img_15_2,88.3014,high_blur_risk,,,images/img_15_2.jpg,,,,,
+20,img_11_3,88.2135,high_blur_risk,,,images/img_11_3.jpg,,,,,
